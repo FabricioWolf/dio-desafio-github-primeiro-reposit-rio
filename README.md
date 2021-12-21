@@ -6,23 +6,33 @@ Repositório criado para desafio de Projeto.
 
 ### Comandos básicos Git Bash
 
-*cd*
-
 Entrar em X diretório (Ex: cd C:\workspace\Dev\Git).
 
-*git status*
+*cd*
+
+
 
 Conferir status do repositório.
 
-*git add .*
+*git status*
+
+
 
 Adicionar todos os arquivos ao github 1° passo.
 
-*git commit -m "comentário(Ex inclusão de...)"*
+*git add .*
+
+
 
 Adicionar commit para adicionar ao GitHub2° passo.
 
-*git push origin main*
+*git commit -m "comentário(Ex inclusão de...)"*
+
+
 
 Enviar todos os commits atuais para a nuvem do GitHub.
+
+*git push origin main*
+
+
 
