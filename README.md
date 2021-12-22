@@ -17,15 +17,10 @@ Entrar em X diretório (Ex: cd C:\workspace\Dev\Git).
 Conferir status do repositório.
 
 *git status*
-// 
-//
-
+<br/>
 Adicionar todos os arquivos ao github 1° passo.
 
 *git add .*
-
-
-
 Adicionar commit para adicionar ao GitHub2° passo.
 
 *git commit -m "comentário(Ex inclusão de...)"*
