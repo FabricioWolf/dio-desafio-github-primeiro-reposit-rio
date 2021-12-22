@@ -3,6 +3,8 @@ Repositório criado para desafio de Projeto.
 
 ## Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
+[Git](https://git-scm.com/downloads)
+
 
 ### Comandos básicos Git Bash
 
@@ -15,8 +17,8 @@ Entrar em X diretório (Ex: cd C:\workspace\Dev\Git).
 Conferir status do repositório.
 
 *git status*
-
-
+// 
+//
 
 Adicionar todos os arquivos ao github 1° passo.
 
